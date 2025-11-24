@@ -1,8 +1,3 @@
-Here is a clean, professional **GitHub README.md** for your project 👇
-(You can copy-paste directly into your repo.)
-
----
-
 ## 📌 Employee Joining Prediction Using Logistic Regression
 
 This project focuses on predicting whether a candidate will join a company after receiving an offer. Using machine learning—specifically **Logistic Regression**—the model analyzes HR and candidate-related features to estimate the likelihood of offer acceptance.
