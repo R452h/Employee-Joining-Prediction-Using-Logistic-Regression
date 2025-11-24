@@ -118,6 +118,24 @@ pip install -r requirements.txt
 * Add interactive dashboards
 
 ---
+### 🧑‍💻 Screenshots
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/22b6943f-0ab3-4cf2-8a0f-0398ef18af8b" />
+
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/bbfaa543-6cc4-4af2-9ab3-3e26452402be" />
+
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/7c7edf15-474f-4369-8820-a69aaeafadd1" />
+
+<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/29dfa447-92d1-4472-bc85-d59ab2acd39b" />
+
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f0d4377f-6ec7-4a85-81f5-7b1870c5fcdb" />
+
+<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/4dec35b3-d9e0-47e6-9cf7-7c08f7d92400" />
+
+<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/c67ae3d6-b867-4333-a45c-fdfcf6eece51" />
+
+<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/02fcf52f-c58e-430e-9d72-a7210b646dcd" />
+
+<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/de14cc28-475d-46a8-8f1a-770fe4f95f23" />
 
 ### 🧑‍💻 Author
 
